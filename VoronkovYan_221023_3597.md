@@ -3,13 +3,13 @@
 ```
 sudo dpkg -i mysql-apt-config_0.8.18-1_all.deb
 ```
-![Alt text](../image.png)
+![Alt text](image-1.png)
 
 Устанавливаю скачанный пакет выполнив команду
 ```
 sudo dpkg -i mysql-apt-config_0.8.18-1_all.deb
 ```
-![Alt text](../image-1.png)
+![Alt text](image-2.png)
 
 Обновляю список пакетов:
 ```
@@ -19,7 +19,7 @@ sudo apt update
 ```
 sudo apt install mysql-server
 ```
-![Alt text](../image-2.png)
+![Alt text](image-3.png)
 
 Скачиваем пакет deb для nano 
 ```
